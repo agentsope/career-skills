@@ -1,0 +1,20 @@
+# Build artifacts from the skill-distillation process (research notes, validation
+# reports, intermediate metadata). Kept locally as an audit trail, never shipped.
+.build/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (if any tooling is added later)
+node_modules/
+*.log

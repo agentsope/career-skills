@@ -1,0 +1,34 @@
+{
+  "name": "career-skills",
+  "version": "0.1.0",
+  "description": "Job-hunting skills for Claude Code — a domain-agnostic career methodology engine, not a stale question bank. 6 skills covering the full pipeline, works in Chinese or English. Uses live web for real postings / JDs and never fabricates employers, titles, numbers, or links.",
+  "owner": {
+    "name": "agentsope"
+  },
+  "plugins": [
+    {
+      "name": "career-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "6 Claude skills for the full job hunt: find real openings (role-finder) → decode a JD (jd-analyzer) → plan what to learn (gap-planner) → turn raw experience into role language (experience-mapper) → polish résumé bullets (bullet-builder) → assemble a tailored résumé (resume-tailor). Works in Chinese or English, result-first, with a shared no-fabrication red line and live-web sourcing for real jobs / JDs.",
+      "author": {
+        "name": "agentsope"
+      },
+      "keywords": [
+        "career",
+        "resume",
+        "cv",
+        "job-search",
+        "求职",
+        "简历",
+        "transferable-skills",
+        "可迁移能力",
+        "international-students",
+        "留学生",
+        "career-change",
+        "转专业"
+      ],
+      "category": "career"
+    }
+  ]
+}

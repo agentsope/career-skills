@@ -1,0 +1,23 @@
+{
+  "name": "career-skills",
+  "description": "6 Claude skills for the full job hunt — find real openings (role-finder), decode a JD with its subtext (jd-analyzer), plan what to learn (gap-planner), turn messy / spoken experience into role language (experience-mapper), polish it into résumé bullets (bullet-builder), and assemble a tailored résumé (resume-tailor). Works in Chinese or English, CS/tech-leaning, result-first. Shared red line: never invent employers, titles, numbers, awards, skills, or URLs; real jobs / JDs are fetched live, never fabricated.",
+  "version": "0.1.0",
+  "author": {
+    "name": "agentsope",
+    "email": ""
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/agentsope/career-skills",
+  "repository": "https://github.com/agentsope/career-skills",
+  "keywords": [
+    "career",
+    "resume",
+    "cv",
+    "job-search",
+    "求职",
+    "简历",
+    "transferable-skills",
+    "international-students",
+    "career-change"
+  ]
+}
